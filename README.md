@@ -1,8 +1,11 @@
 # pkws_in_D
 
+
+### Pkws nach Kraftstoffen 
 https://vizsim.github.io/pkws_in_D/full_chart.html
 
-
+### Pkw-Dichte und mehr (Attribute)
+https://vizsim.github.io/pkws_in_D/full_chart3_bundesland.html
 
 
 
